@@ -1,6 +1,6 @@
 trigger:
   branches:
-    include: ["master", "v15.8"]
+    include: ["master", "v15.8", "dev/andarno/fix100"]
   paths:
     exclude: ["doc", "*.md"]
 
